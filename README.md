@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/42af777b-7294-4a4c-a047-0b3321b2587d
+
+
+
 # 🌌 Mega Space Intelligence Framework (MSIF)
 
 An autonomous, multi-agent AI framework designed for deep-space exploration, hazard mitigation, orbital mechanics, and planetary defense systems. This framework integrates 5 specialized autonomous models trained on high-fidelity aerospace and telemetry datasets.
